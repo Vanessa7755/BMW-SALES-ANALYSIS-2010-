@@ -46,6 +46,8 @@ This project showcases a dynamic BMW sales dashboard built using Power BI. The r
 | Red     | 16.83%      |
 | Silver  | 16.71%      |
 | White   | 17.14%      |
+## Dashboard[<img width="1076" height="396" alt="BMW latest" src="https://github.com/user-attachments/assets/a635cc2f-da32-4af4-b720-83fb3c4fb1fe" />]
+
 
 ## Challenges and Solutions
 - **Competition:** Intensifying rivalry from Tesla, Mercedes, and Chinese brands.
