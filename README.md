@@ -1,7 +1,8 @@
 # BMW-SALES-ANALYSIS-2010-
 An interactive dashboard that visualizes key trends, regional performances, top car models, and market opportunities. The dashboard leverages Power BI to provide insights into BMW's global sales performance in 2010.
 ## Data Source
-Data obtained from Kaggle.
+Data obtained from Kaggle.[<img width="1170" height="434" alt="bmw latest dataset" src="https://github.com/user-attachments/assets/ff338321-a46a-47f1-9aa3-17bf3f07bd7d" />
+
 
 ## Project Overview
 This project showcases a dynamic BMW sales dashboard built using Power BI. The raw dataset from Kaggle was cleaned and structured into a tabular format using Excel to facilitate analysis and visualization.
